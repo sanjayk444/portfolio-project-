@@ -6,7 +6,7 @@ A modern, responsive portfolio website built using **HTML**, **CSS**, and **Java
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio Online](file:///C:/Users/tnsan/Desktop/portfolio/index.html#hero)file:///C:/Users/tnsan/Desktop/portfolio/index.html#hero
+👉 [View Portfolio Online](file:///C:/Users/tnsan/Desktop/portfolio/index.html)file:///C:/Users/tnsan/Desktop/portfolio/index.html
 _(Replace with your GitHub Pages / Vercel / Netlify link)_
 
 ---
