@@ -6,8 +6,8 @@ A modern, responsive portfolio website built using **HTML**, **CSS**, and **Java
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio Online](https://tiny-mochi-ff2f2d.netlify.app/
-)file:///C:/Users/tnsan/Desktop/portfolio/index.html
+👉 [View Portfolio Online](https://portfolio-project-sanjayk.netlify.app/
+)
 _(Replace with your GitHub Pages / Vercel / Netlify link)_
 
 ---
